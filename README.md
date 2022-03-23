@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lminaya0110
 - 👀 I’m interested in building backend applications
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on anything java or cloud related
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on scalable web apps
 - 📫 How to reach me => l.minaya0110@gmail.com
 
 <!---
