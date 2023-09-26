@@ -9,7 +9,7 @@ I’m an experienced dev in this tech stack:
   
 > 🌱 I’m currently learning:
 > - [x] Python
-> - [ ] SQL
+> - [x] SQL
 > - [ ] AWS
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/laura-minaya-b1a853223/).
