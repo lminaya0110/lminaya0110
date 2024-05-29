@@ -12,7 +12,7 @@ I’m an experienced dev in this tech stack:
 > - [x] SQL
 > - [ ] AWS
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/laura-minaya-b1a853223/).
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/laurajhangiani/).
 
 <!---
 lminaya0110/lminaya0110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
